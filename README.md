@@ -3,7 +3,7 @@
 ## About The Project
 
 In this project I have demonstrated the use of Shacl Shapes Language (a language used to validate RDF 
-Triples graphs against a set of conditions) with a simple code.
+Triples graphs against a set of conditions) with a sample code.
 
 **Shacles Rules**
 
